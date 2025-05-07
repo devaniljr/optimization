@@ -1,5 +1,3 @@
-// scripts.js (Browser-side script)
-
 // --- Utility Functions (displayResult, addInfo - as defined before) ---
 function displayResult(testName, passed, description = '', errorMessage = '') {
   const testList = document.getElementById('test-list');
