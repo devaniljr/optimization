@@ -1,0 +1,36 @@
+[
+  {
+    "functionName": "averageNumberOfWheels",
+    "file": "home/devanil/projects/royster/optimization/examples/megamorphic-real.js",
+    "location": "42",
+    "icTransitions": [
+      {
+        "icType": "LoadIC",
+        "property": "wheels",
+        "line": 50,
+        "column": 28,
+        "fromState": "MONOMORPHIC",
+        "toState": "POLYMORPHIC",
+        "transitionLineIndex": 2842
+      },
+      {
+        "icType": "LoadIC",
+        "property": "wheels",
+        "line": 50,
+        "column": 28,
+        "fromState": "POLYMORPHIC",
+        "toState": "POLYMORPHIC",
+        "transitionLineIndex": 2843
+      },
+      {
+        "icType": "LoadIC",
+        "property": "wheels",
+        "line": 50,
+        "column": 28,
+        "fromState": "POLYMORPHIC",
+        "toState": "POLYMORPHIC",
+        "transitionLineIndex": 2844
+      }
+    ]
+  }
+]
